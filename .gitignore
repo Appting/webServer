@@ -1,0 +1,4 @@
+build/*
+ServerLog/*
+!.gitkeep
+.vscode/*.log
